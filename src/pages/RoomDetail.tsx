@@ -48,7 +48,7 @@ export default function RoomDetail() {
 				sx={{ fontWeight: 700, margin: '2px 36px' }}
 				variant={isMobile ? 'h6' : 'h5'}
 			>
-				{room.subtitle}
+				{t(`${room.subtitle}`)}
 			</Typography>
 			<Typography sx={{ margin: '3px 36px' }}>
 				{room.descriptionKeys.map((key, i) => (

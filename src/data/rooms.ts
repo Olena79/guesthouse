@@ -21,7 +21,7 @@ export const rooms: Room[] = [
 	{
 		id: 'standard',
 		title: 'Standard',
-		subtitle: 'Затишний номер з усіма зручностями',
+		subtitle: 'standard_desc',
 		price: 70,
 		beds: '1 Queen',
 		area: '20 m²',
@@ -48,7 +48,7 @@ export const rooms: Room[] = [
 	{
 		id: 'deluxe',
 		title: 'Deluxe',
-		subtitle: 'Просторий номер с видом',
+		subtitle: 'deluxe_desc',
 		price: 120,
 		beds: '1 King',
 		area: '35 m²',
@@ -75,7 +75,7 @@ export const rooms: Room[] = [
 	{
 		id: 'suite',
 		title: 'Suite',
-		subtitle: 'Люкс класу з окремою вітальнею',
+		subtitle: 'suite_desc',
 		price: 200,
 		beds: '2 King',
 		area: '60 m²',

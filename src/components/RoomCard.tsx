@@ -65,7 +65,7 @@ export default function RoomCard({ room }: { room: Room }) {
 					{room.title}
 				</Typography>
 				<Typography sx={{ color: '#076959ff' }} variant='body1'>
-					{room.subtitle}
+					{t(`${room.subtitle}`)}
 				</Typography>
 			</CardContent>
 			<CardMedia

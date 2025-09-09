@@ -20,18 +20,21 @@
 	"teapot": "Kettle",
 	"kitchenette": "Mini-kitchen with microwave",
 
+	"standard_desc": "Cozy room with all amenities",
 	"standard_desc1": "Welcome to our Standard room, designed for a comfortable stay for two.",
 	"standard_desc2": "This 20 m² room is perfect for couples seeking a cozy retreat for a romantic getaway or a short trip.",
 	"standard_desc3": "The room features a comfortable Queen-size bed, ensuring a restful sleep, along with modern amenities including high-speed Wi-Fi, a flat-screen TV, a mini-fridge, and a private bathroom with a shower and a set of toiletries.",
 	"standard_desc4": "The interior is designed in warm tones with natural materials, creating a homely and inviting atmosphere. The windows offer a view of the guest house’s picturesque garden, adding a sense of peace and tranquility.",
 	"standard_desc5": "This room is an ideal choice for those who value comfort and practicality at an affordable price (€70/night).",
 
+	"deluxe_desc": "Spacious room with a view",
 	"deluxe_desc1": "The Deluxe room, spanning 35 m², is an elegant choice for those who desire more space and additional amenities.",
 	"deluxe_desc2": "This room is equipped with a luxurious King-size bed, providing maximum comfort for relaxation. Large panoramic windows offer breathtaking views of the surrounding nature, allowing you to enjoy stunning landscapes right from your room.",
 	"deluxe_desc3": "The room includes a cozy seating area with a soft sofa, a coffee table, a work desk, and a modern bathroom with a choice of a bathtub or shower, a hairdryer, and premium toiletries.",
 	"deluxe_desc4": "Additional amenities include a minibar, a coffee machine, and a safe for storing valuables.",
 	"deluxe_desc5": "The Deluxe room is perfect for those who seek to combine style, comfort, and scenic views at a price of €120/night.",
 
+	"suite_desc": "Class suite with separate living room",
 	"suite_desc1": "The Suite, covering 60 m², is the epitome of luxury and space, designed for families, groups of friends, or those who value exceptional comfort.",
 	"suite_desc2": "This room features two luxurious King-size beds, a spacious bedroom, and a separate living room where guests can unwind on a comfortable sofa, enjoy watching movies on a large TV, or spend time in a cozy atmosphere.",
 	"suite_desc3": "The living room is equipped with a dining table, making it ideal for family dinners or business meetings.",
